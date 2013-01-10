@@ -18,6 +18,7 @@
       "test": "mocha"
     }
   , "dependencies": {
+        "bufs": "0.0.x"
     }
   , "devDependencies": {
         "chai": "*"
