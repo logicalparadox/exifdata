@@ -1,6 +1,6 @@
 # exifdata
 
-> Read and Write JPEG EXIF metadata.
+> Read and (soon) Write JPEG EXIF metadata.
 
 #### Installation
 
