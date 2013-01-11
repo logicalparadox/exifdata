@@ -1,4 +1,9 @@
 
+0.2.0 / 2013-01-10 
+==================
+
+  * extract: add support for async loading of file
+
 0.1.0 / 2013-01-10 
 ==================
 

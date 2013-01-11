@@ -1,6 +1,6 @@
 {
     "name": "exifdata"
-  , "version": "0.1.0"
+  , "version": "0.2.0"
   , "description": "Read and Write JPEG EXIF metadata."
   , "author": "Jake Luer <jake@alogicalparadox.com> (http://alogicalparadox.com)"
   , "license": "MIT"
