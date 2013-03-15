@@ -15,7 +15,7 @@
     }
   , "main": "./index"
   , "scripts": {
-      "test": "mocha"
+      "test": "make test"
     }
   , "dependencies": {
         "bufs": "0.0.x"
